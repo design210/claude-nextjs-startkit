@@ -7,6 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 커밋 메세지 : 한글로 작성
 - 주석 : 한글로 작성
 - 함수명/변수명 : camelCase 형태로 영문으로 작성
+- 브랜치 전략 : Git Flow (`master`/`develop` + `feature/*`, `bugfix/*`, `release/*`, `hotfix/*`). 자세한 내용은 [CONTRIBUTING.md](./CONTRIBUTING.md) 참고. `master`, `develop`에 직접 push 금지, PR로만 병합
 
 ## Commands
 
